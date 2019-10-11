@@ -1,11 +1,9 @@
 {
-  "posts": [
+  "user": [
     {
-      "id": 1,
-      "title": "hello"
+      "Nome": "Guilherme Nimer Gojlevicius",
+      "CPF": 47663850807,
+      "Rg":"385786815"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
